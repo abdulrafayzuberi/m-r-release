@@ -1,1 +1,9 @@
-{"version":"1.5.71","versionCode":86,"name":"Survive Deaths","changelog":"Death no longer stops Auto Farm: the bot respawns and keeps farming. Stuck screens retry (Back, pop-up X, 30 s + 30 s) and then restart the game instead of stopping.","apkUrl":"https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.71/MR-Macro-Farm-1.5.71.apk","sha256":"c95b4077f2e5cd6675eb3966000b2ecaeffd1acb11a113ab7f8da83e467413b9","minVersionCode":0}
+{
+  "version": "1.5.72",
+  "versionCode": 87,
+  "name": "Bot Updates & Queue Retry",
+  "changelog": "Updates now come from the M&R bot, with GitHub as a backup when the bot is down. Releases that need an update key ask for it. A full server (Exceeded max queue capacity) is confirmed and joined again until it gets in.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.72/MR-Macro-Farm-1.5.72.apk",
+  "sha256": "9b6c22be5f3f20b37bed7d923ca82deffe1d4b8a2dbc4e05f4a93247a964219d",
+  "minVersionCode": 0
+}

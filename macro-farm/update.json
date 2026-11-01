@@ -1,9 +1,9 @@
 {
-  "version": "1.5.75",
-  "versionCode": 90,
-  "name": "Stable Rebuild",
-  "changelog": "1.5.71 farming core with queue fixes, server selection fix, bot updates, Farm Stats and alerts.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.75/MR-Macro-Farm-1.5.75.apk",
-  "sha256": "60cc1c47fce49c4bc9fd7ad9f19ab62c1ee680795ab753ebe5f4349142c5d462",
+  "version": "1.5.76",
+  "versionCode": 91,
+  "name": "Lite Engine",
+  "changelog": "Smoother and clearer on cloud phones: screen capture only when needed, one screen read per check. Farming unchanged.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.76/MR-Macro-Farm-1.5.76.apk",
+  "sha256": "29d6d65bd20df3998a44295a40a3f2e5cb600e684cc9973695b8e136ff6f2dd8",
   "minVersionCode": 0
 }

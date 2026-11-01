@@ -1,9 +1,9 @@
 {
-  "version": "1.5.76",
-  "versionCode": 91,
-  "name": "Lite Engine",
-  "changelog": "Smoother and clearer on cloud phones: screen capture only when needed, one screen read per check. Farming unchanged.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.76/MR-Macro-Farm-1.5.76.apk",
-  "sha256": "29d6d65bd20df3998a44295a40a3f2e5cb600e684cc9973695b8e136ff6f2dd8",
+  "version": "1.5.77",
+  "versionCode": 92,
+  "name": "Lite & Fast",
+  "changelog": "Lighter and faster on cloud phones (smaller screen reads on 1080p/1440p). Automatic server selection turned off for now. Farming unchanged.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.77/MR-Macro-Farm-1.5.77.apk",
+  "sha256": "3023ef4135a860783ab28f394f7b75e05f75f33e92b0bd3cc9fcafa836c447ad",
   "minVersionCode": 0
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.5.79",
-  "versionCode": 94,
-  "name": "Respawn & Deposit Fix",
-  "changelog": "Random Point fix (no bag spawn after deposit); every bag slot gets a deposit try; no chest visit after random spawn; lobby rejoin (3 tries); recovery never gives up + notifications; key/permission/crash notices.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.79/MR-Macro-Farm-1.5.79.apk",
-  "sha256": "a8f7299a943f3701b9ba33bf7888b6358782e37765565bdbf8b81f3b81173d25",
+  "version": "1.5.83",
+  "versionCode": 98,
+  "name": "Event Guard",
+  "changelog": "Drop seeds/wood/stone/iron switches; auto server selection back with retries and fallback; lighter UI; event/shop screen guard (never taps open/buy/draw); clear stop when no server is loaded.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.83/MR-Macro-Farm-1.5.83.apk",
+  "sha256": "471f6f35fe4620add95895f28518d85f61c194f00c2c49d83ce594dce79fc507",
   "minVersionCode": 0
 }

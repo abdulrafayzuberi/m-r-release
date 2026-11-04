@@ -1,9 +1,9 @@
 {
-  "version": "1.5.78",
-  "versionCode": 93,
-  "name": "Deposit Fix",
-  "changelog": "Fixes getting stuck on the deposit screen, full-size screen reading again, in-app update fix.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.78/MR-Macro-Farm-1.5.78.apk",
-  "sha256": "e5f2e6c7cc8011fc9871795da39e635fe2e0cd3da07ff766dbda39253f3be436",
+  "version": "1.5.79",
+  "versionCode": 94,
+  "name": "Respawn & Deposit Fix",
+  "changelog": "Random Point fix (no bag spawn after deposit); every bag slot gets a deposit try; no chest visit after random spawn; lobby rejoin (3 tries); recovery never gives up + notifications; key/permission/crash notices.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.79/MR-Macro-Farm-1.5.79.apk",
+  "sha256": "a8f7299a943f3701b9ba33bf7888b6358782e37765565bdbf8b81f3b81173d25",
   "minVersionCode": 0
 }

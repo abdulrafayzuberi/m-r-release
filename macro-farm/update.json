@@ -1,9 +1,9 @@
 {
-  "version": "1.5.84",
-  "versionCode": 99,
-  "name": "24/7",
-  "changelog": "Errors restart the game and keep farming instead of stopping. Game maintenance detected and retried every 15 min. Notification sent on every restart.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.84/MR-Macro-Farm-1.5.84.apk",
-  "sha256": "a0a2f940875246ae68798ce779ee9f1164c004867dc1081f0a9725ebfd779694",
+  "version": "1.5.85",
+  "versionCode": 100,
+  "name": "Lighter",
+  "changelog": "Much lighter on the phone: screen capture pauses when the bot isn't reading the screen. No feature or timing changes.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.85/MR-Macro-Farm-1.5.85.apk",
+  "sha256": "ebe8aaeaaa4345d386502b3a2ef65ca132f550ef8f166cbb845f3d74f8305ec0",
   "minVersionCode": 0
 }

@@ -1,9 +1,9 @@
 {
-  "version": "1.5.85",
-  "versionCode": 100,
-  "name": "Lighter",
-  "changelog": "Much lighter on the phone: screen capture pauses when the bot isn't reading the screen. No feature or timing changes.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.85/MR-Macro-Farm-1.5.85.apk",
-  "sha256": "ebe8aaeaaa4345d386502b3a2ef65ca132f550ef8f166cbb845f3d74f8305ec0",
+  "version": "1.5.86",
+  "versionCode": 101,
+  "name": "Join Fix",
+  "changelog": "Fixes joining the server and the bot waiting in the lobby: screen capture is back to the 1.5.84 code that joined fine. Lighter during long waits.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.86/MR-Macro-Farm-1.5.86.apk",
+  "sha256": "742a05b7b4e36d817fdbc7072c85e1e9278dede69c04a678c79b9ac59ddbf411",
   "minVersionCode": 0
 }

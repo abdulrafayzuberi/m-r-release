@@ -1,9 +1,9 @@
 {
-  "version": "1.5.87",
-  "versionCode": 102,
-  "name": "Lobby Fix",
-  "changelog": "Fixes the bot sitting in the lobby: with automatic server selection off it taps Start and enters the loaded server again, like 1.5.79.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.87/MR-Macro-Farm-1.5.87.apk",
-  "sha256": "56b15e60c5ebb8a0338ff567282946746af3578b670ac59c0b333766c7881e27",
+  "version": "1.5.88",
+  "versionCode": 103,
+  "name": "Lobby Restore",
+  "changelog": "Fixes the bot stuck in the lobby: lobby taps work again (word list back to 1.5.79). All features kept.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.88/MR-Macro-Farm-1.5.88.apk",
+  "sha256": "19105d9fb594f39ebd7e82ac9cf3a4d56c9bd7e9fd4817b39146b11fa0ab6b95",
   "minVersionCode": 0
 }

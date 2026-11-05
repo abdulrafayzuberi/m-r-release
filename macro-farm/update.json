@@ -1,9 +1,9 @@
 {
-  "version": "1.5.86",
-  "versionCode": 101,
-  "name": "Join Fix",
-  "changelog": "Fixes joining the server and the bot waiting in the lobby: screen capture is back to the 1.5.84 code that joined fine. Lighter during long waits.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.86/MR-Macro-Farm-1.5.86.apk",
-  "sha256": "742a05b7b4e36d817fdbc7072c85e1e9278dede69c04a678c79b9ac59ddbf411",
+  "version": "1.5.87",
+  "versionCode": 102,
+  "name": "Lobby Fix",
+  "changelog": "Fixes the bot sitting in the lobby: with automatic server selection off it taps Start and enters the loaded server again, like 1.5.79.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.87/MR-Macro-Farm-1.5.87.apk",
+  "sha256": "56b15e60c5ebb8a0338ff567282946746af3578b670ac59c0b333766c7881e27",
   "minVersionCode": 0
 }

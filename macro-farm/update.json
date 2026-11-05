@@ -1,9 +1,9 @@
 {
-  "version": "1.5.83",
-  "versionCode": 98,
-  "name": "Event Guard",
-  "changelog": "Drop seeds/wood/stone/iron switches; auto server selection back with retries and fallback; lighter UI; event/shop screen guard (never taps open/buy/draw); clear stop when no server is loaded.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.83/MR-Macro-Farm-1.5.83.apk",
-  "sha256": "471f6f35fe4620add95895f28518d85f61c194f00c2c49d83ce594dce79fc507",
+  "version": "1.5.84",
+  "versionCode": 99,
+  "name": "24/7",
+  "changelog": "Errors restart the game and keep farming instead of stopping. Game maintenance detected and retried every 15 min. Notification sent on every restart.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.84/MR-Macro-Farm-1.5.84.apk",
+  "sha256": "a0a2f940875246ae68798ce779ee9f1164c004867dc1081f0a9725ebfd779694",
   "minVersionCode": 0
 }

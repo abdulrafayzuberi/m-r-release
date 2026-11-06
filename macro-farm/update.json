@@ -1,9 +1,9 @@
 {
-  "version": "1.5.88",
-  "versionCode": 103,
-  "name": "Lobby Restore",
-  "changelog": "Fixes the bot stuck in the lobby: lobby taps work again (word list back to 1.5.79). All features kept.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.88/MR-Macro-Farm-1.5.88.apk",
-  "sha256": "19105d9fb594f39ebd7e82ac9cf3a4d56c9bd7e9fd4817b39146b11fa0ab6b95",
+  "version": "1.5.89",
+  "versionCode": 104,
+  "name": "Lighter Farm",
+  "changelog": "Lighter while farming: the screen is read every 4 s instead of every 2 s. Nothing else changed.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.89/MR-Macro-Farm-1.5.89.apk",
+  "sha256": "2bef6bc367aef0356bbfbe6d74eacc616f149c5ed1f5932be97b746a5f8ef176",
   "minVersionCode": 0
 }

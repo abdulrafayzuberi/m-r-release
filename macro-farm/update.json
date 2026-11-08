@@ -1,9 +1,9 @@
 {
-  "version": "1.5.91",
-  "versionCode": 106,
-  "name": "Hardened",
-  "changelog": "Protected against reverse-engineering: code obfuscated, server URLs encrypted, decoy honeypot added. No change to how the bot runs.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.91/MR-Macro-Farm-1.5.91.apk",
-  "sha256": "75ec7b3017bf54a1c6a2c3b1ee29e8f1eed064672140bc7c3796a32e8adf7664",
+  "version": "1.5.92",
+  "versionCode": 107,
+  "name": "Stable",
+  "changelog": "Fixes the Enter Password locked-door freeze and stuck screens. All features and protection kept.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.92/MR-Macro-Farm-1.5.92.apk",
+  "sha256": "268ed8295f122a59ff333e391e79af67e60393f99fb06c750816c520a5bcd9e7",
   "minVersionCode": 0
 }

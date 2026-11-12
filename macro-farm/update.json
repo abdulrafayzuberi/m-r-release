@@ -1,9 +1,9 @@
 {
-  "version": "1.5.92",
-  "versionCode": 107,
-  "name": "Stable",
-  "changelog": "Fixes the Enter Password locked-door freeze and stuck screens. All features and protection kept.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.92/MR-Macro-Farm-1.5.92.apk",
-  "sha256": "268ed8295f122a59ff333e391e79af67e60393f99fb06c750816c520a5bcd9e7",
+  "version": "1.5.94",
+  "versionCode": 109,
+  "name": "Gold Mode",
+  "changelog": "7-Day Sign In, 999% Bonus Value and Losses pop-ups now close reliably, and unknown pop-ups are closed when the bot gets stuck. Shorter waits at startup and after pop-ups. Better screen reading on low and very high resolution phones. Clear message when a permission is switched off. New optional Gold Mode (off by default) for Ranked and Ace, Badge Hunter only with Gold Mode on: turn on auto gather and self deposit in the game first.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.94/MR-Macro-Farm-1.5.94.apk",
+  "sha256": "643d32e96f81a25621e81ad40d9614572f8d537982eed8c6a1fcb7efe938387e",
   "minVersionCode": 0
 }

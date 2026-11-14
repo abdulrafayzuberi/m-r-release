@@ -1,9 +1,9 @@
 {
-  "version": "1.5.96",
-  "versionCode": 111,
-  "name": "In-Game Recovery",
-  "changelog": "Respawn fix for the game's new Auto Gather option. Normal mode now fixes problems in the game first and restarts less. Small stability fixes.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.96/MR-Macro-Farm-1.5.96.apk",
-  "sha256": "869bb53c049f6dd97f75789d0a3cb46af54df6c0b99611defa0012462ad3835b",
+  "version": "1.5.97",
+  "versionCode": 112,
+  "name": "Popup Fix",
+  "changelog": "Popups close reliably again at startup: 7-Day Sign In, offers and event shops. Ticks No more pop-ups. Keeps the respawn fix and in-game recovery.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.97/MR-Macro-Farm-1.5.97.apk",
+  "sha256": "1d1fa9fe52e252936eaf4a5d509cd895b80bb5e705de0aa1eda6065227512051",
   "minVersionCode": 0
 }

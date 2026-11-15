@@ -1,9 +1,9 @@
 {
-  "version": "1.5.98",
-  "versionCode": 113,
-  "name": "Human Touch",
-  "changelog": "Human-like taps and timing, on by default (turn off in Configure Bot > Human-like play; adds at most 3% time). Respawn list scroll fix. Recovery limits reset only after real farming.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.98/MR-Macro-Farm-1.5.98.apk",
-  "sha256": "5629f6ff50e26aaa6804a3063c0d6ecb4281d2f71d89483215e8f864ab32425b",
+  "version": "1.5.99",
+  "versionCode": 114,
+  "name": "Sign In Fix",
+  "changelog": "Fix: the bot no longer gets stuck on the 7-Day Sign In panel late in the week (most days showing Claim Today). Keeps human-like taps and timing from 1.5.98.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.99/MR-Macro-Farm-1.5.99.apk",
+  "sha256": "10db3da5a94b32d55b1c0496d2bb18a6d3f51b8687ce4124eda2da1e1d92fa9d",
   "minVersionCode": 0
 }

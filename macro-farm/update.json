@@ -1,9 +1,9 @@
 {
-  "version": "1.5.97",
-  "versionCode": 112,
-  "name": "Popup Fix",
-  "changelog": "Popups close reliably again at startup: 7-Day Sign In, offers and event shops. Ticks No more pop-ups. Keeps the respawn fix and in-game recovery.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.97/MR-Macro-Farm-1.5.97.apk",
-  "sha256": "1d1fa9fe52e252936eaf4a5d509cd895b80bb5e705de0aa1eda6065227512051",
+  "version": "1.5.98",
+  "versionCode": 113,
+  "name": "Human Touch",
+  "changelog": "Human-like taps and timing, on by default (turn off in Configure Bot > Human-like play; adds at most 3% time). Respawn list scroll fix. Recovery limits reset only after real farming.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.98/MR-Macro-Farm-1.5.98.apk",
+  "sha256": "5629f6ff50e26aaa6804a3063c0d6ecb4281d2f71d89483215e8f864ab32425b",
   "minVersionCode": 0
 }

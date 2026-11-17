@@ -2,7 +2,7 @@
   "version": "1.5.104",
   "versionCode": 119,
   "name": "Humanise Timer",
-  "changelog": "Farms longer: no more game restart after every deposit, faster self-free and Auto Farm, Humanise timer, one-word status with timers, Send logs to Discord, 7-Day Sign In fix.",
+  "changelog": "Farms with less downtime: no game restart after every deposit, faster return from self-free, Auto Farm starts as soon as the screen is ready, and a Humanise timer on the bar (random each time). Cycle times now appear in the log.",
   "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.104/MR-Macro-Farm-1.5.104.apk",
   "sha256": "8abc749cd34de24a741fce9eb91f5673e8b67ea3c2821f0fb09af7ac5459a897",
   "minVersionCode": 0

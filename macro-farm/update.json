@@ -1,9 +1,9 @@
 {
-  "version": "1.5.104",
-  "versionCode": 119,
-  "name": "Humanise Timer",
-  "changelog": "Farms with less downtime: no game restart after every deposit, faster return from self-free, Auto Farm starts as soon as the screen is ready, and a Humanise timer on the bar (random each time). Cycle times now appear in the log.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.104/MR-Macro-Farm-1.5.104.apk",
-  "sha256": "8abc749cd34de24a741fce9eb91f5673e8b67ea3c2821f0fb09af7ac5459a897",
+  "version": "1.5.105",
+  "versionCode": 120,
+  "name": "Death Recovery",
+  "changelog": "Fixes the restart after a death: it now goes to the bag and deposits, or random spawns and farms if the bag has a timer. Also: no game restart after every deposit, faster return from self-free, Auto Farm starts as soon as the screen is ready, and a Humanise timer on the bar (random each time). Cycle times now appear in the log.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.105/MR-Macro-Farm-1.5.105.apk",
+  "sha256": "7c41513869e6fe080a9654960639f53fb48bd65ddeac8fa544b39303cc5606d2",
   "minVersionCode": 0
 }

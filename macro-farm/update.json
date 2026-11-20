@@ -1,9 +1,9 @@
 {
-  "version": "1.5.105",
-  "versionCode": 120,
-  "name": "Death Recovery",
-  "changelog": "Fixes the restart after a death: it now goes to the bag and deposits, or random spawns and farms if the bag has a timer. Also: no game restart after every deposit, faster return from self-free, Auto Farm starts as soon as the screen is ready, and a Humanise timer on the bar (random each time). Cycle times now appear in the log.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.105/MR-Macro-Farm-1.5.105.apk",
-  "sha256": "7c41513869e6fe080a9654960639f53fb48bd65ddeac8fa544b39303cc5606d2",
+  "version": "1.5.107",
+  "versionCode": 122,
+  "name": "Dashboard Controls",
+  "changelog": "New look matching the M&R website and dashboard (M&R Dashboard dark or light by default; all the old colour themes are still in Settings > App look). Beta tag on Automatic server selection. Farming works exactly like 1.5.105.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.107/MR-Macro-Farm-1.5.107.apk",
+  "sha256": "b6501e7cb7d85ba8ad4d21562300982f43adc96c22ef82a3953eabafaddfc65a",
   "minVersionCode": 0
 }

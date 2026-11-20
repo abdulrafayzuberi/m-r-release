@@ -1,9 +1,9 @@
 {
-  "version": "1.5.107",
-  "versionCode": 122,
-  "name": "Dashboard Controls",
-  "changelog": "New look matching the M&R website and dashboard (M&R Dashboard dark or light by default; all the old colour themes are still in Settings > App look). Beta tag on Automatic server selection. Farming works exactly like 1.5.105.",
-  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.107/MR-Macro-Farm-1.5.107.apk",
-  "sha256": "b6501e7cb7d85ba8ad4d21562300982f43adc96c22ef82a3953eabafaddfc65a",
+  "version": "1.5.108",
+  "versionCode": 123,
+  "name": "Light Look",
+  "changelog": "The app now opens in the light M&R Dashboard look, like the website. If you already picked a look it stays; Dark and all classic colours are in Settings > App look. Farming works exactly as before.",
+  "apkUrl": "https://github.com/abdulrafayzuberi/m-r-release/releases/download/macro-farm-v1.5.108/MR-Macro-Farm-1.5.108.apk",
+  "sha256": "0cb4475635c2ce362a2f5bc3e8bb00feea36e49ba7e142395976cd0038b4357d",
   "minVersionCode": 0
 }
